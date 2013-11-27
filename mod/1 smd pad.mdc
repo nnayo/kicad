@@ -1,0 +1,15 @@
+PCBNEW-LibDoc----V1  jeu. 24 févr. 2011 09:04:10 CET
+#
+$MODULE test_pad
+Li test_pad
+Cd test_pad
+Kw test pad
+$EndMODULE
+#
+$MODULE SO18L
+Li SO18L
+Cd Cms SOJ 18 pins large
+Kw CMS SOJ
+$EndMODULE
+#
+$EndLIBDOC

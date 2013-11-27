@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0  Date: 8/11/2008-21:44:25
+#
+$CMP MPX5100
+D MPX5100
+K pressure captor
+$ENDCMP
+#
+#End Doc Library

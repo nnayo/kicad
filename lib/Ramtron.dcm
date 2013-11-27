@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0  Date: 2/8/2006-10:57:12
+#
+$CMP FM24C256
+D Ramtron 256 kb I2C FRAM memory
+K I2C memory
+$ENDCMP
+#
+#End Doc Library

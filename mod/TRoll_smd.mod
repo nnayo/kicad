@@ -1,0 +1,397 @@
+PCBNEW-LibModule-V1  sam. 02 nov. 2013 17:32:37 CET
+# encoding utf-8
+Units mm
+$INDEX
+HE10-10C
+con_1
+con_10
+con_2
+con_3
+con_4
+con_5
+con_6
+test_pad
+$EndINDEX
+$MODULE HE10-10C
+Po 0 0 0 15 52751EB3 00000000 ~~
+Li HE10-10C
+Cd Connecteur HE10 10 contacts couche
+Kw CONN HE10
+Sc 0
+AR 
+Op 0 0 0
+T0 -1.524 5.08 1.77546 1.5875 0 0.3048 N V 21 N "HE10-10"
+T1 -2.032 8.128 1.143 1.143 0 0.3048 N V 21 N "Val**"
+DS -8.89 -2.54 -8.89 3.81 0.381 21
+DS -8.89 3.81 8.89 3.81 0.381 21
+DS 8.89 3.81 8.89 -3.81 0.381 21
+DS 8.89 -3.81 -8.89 -3.81 0.381 21
+DS -8.89 -3.81 -8.89 -2.54 0.381 21
+$PAD
+Sh "1" R 1.524 1.524 0 0 0
+Dr 0.8128 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 5.08 -1.27
+$EndPAD
+$PAD
+Sh "2" C 1.524 1.524 0 0 0
+Dr 0.8128 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 5.08 1.27
+$EndPAD
+$PAD
+Sh "3" C 1.524 1.524 0 0 0
+Dr 0.8128 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 2.54 -1.27
+$EndPAD
+$PAD
+Sh "4" C 1.524 1.524 0 0 0
+Dr 0.8128 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 2.54 1.27
+$EndPAD
+$PAD
+Sh "5" C 1.524 1.524 0 0 0
+Dr 0.8128 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 -1.27
+$EndPAD
+$PAD
+Sh "6" C 1.524 1.524 0 0 0
+Dr 0.8128 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 1.27
+$EndPAD
+$PAD
+Sh "7" C 1.524 1.524 0 0 0
+Dr 0.8128 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -2.54 -1.27
+$EndPAD
+$PAD
+Sh "8" C 1.524 1.524 0 0 0
+Dr 0.8128 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -2.54 1.27
+$EndPAD
+$PAD
+Sh "9" C 1.524 1.524 0 0 0
+Dr 0.8128 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -5.08 -1.27
+$EndPAD
+$PAD
+Sh "10" C 1.524 1.524 0 0 0
+Dr 0.8128 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -5.08 1.27
+$EndPAD
+$EndMODULE HE10-10C
+$MODULE con_1
+Po 0 0 0 15 5275272C 00000000 ~~
+Li con_1
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -2.54 1.524 1.524 0 0.3048 N V 21 N "con_1"
+T1 0 2.54 1.524 1.524 0 0.3048 N V 21 N "VAL**"
+$PAD
+Sh "1" R 1.524 3.048 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 0
+$EndPAD
+$EndMODULE con_1
+$MODULE con_10
+Po 0 0 0 15 5275282D 00000000 ~~
+Li con_10
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -2.54 1.524 1.524 0 0.3048 N V 21 N "con_10"
+T1 0 2.54 1.524 1.524 0 0.3048 N V 21 N "VAL**"
+$PAD
+Sh "5" R 1.524 3.048 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.27 0
+$EndPAD
+$PAD
+Sh "4" R 1.524 3.048 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.81 0
+$EndPAD
+$PAD
+Sh "3" R 1.524 3.048 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -6.35 0
+$EndPAD
+$PAD
+Sh "2" R 1.524 3.048 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -8.89 0
+$EndPAD
+$PAD
+Sh "1" R 1.524 3.048 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -11.43 0
+$EndPAD
+$PAD
+Sh "6" R 1.524 3.048 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.27 0
+$EndPAD
+$PAD
+Sh "7" R 1.524 3.048 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.81 0
+$EndPAD
+$PAD
+Sh "8" R 1.524 3.048 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 6.35 0
+$EndPAD
+$PAD
+Sh "9" R 1.524 3.048 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 8.89 0
+$EndPAD
+$PAD
+Sh "10" R 1.524 3.048 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 11.43 0
+$EndPAD
+$EndMODULE con_10
+$MODULE con_2
+Po 0 0 0 15 5275276F 00000000 ~~
+Li con_2
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -2.54 1.524 1.524 0 0.3048 N V 21 N "con_2"
+T1 0 2.54 1.524 1.524 0 0.3048 N V 21 N "VAL**"
+$PAD
+Sh "1" R 1.524 3.048 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.27 0
+$EndPAD
+$PAD
+Sh "2" R 1.524 3.048 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.27 0
+$EndPAD
+$EndMODULE con_2
+$MODULE con_3
+Po 0 0 0 15 527527A7 00000000 ~~
+Li con_3
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -2.54 1.524 1.524 0 0.3048 N V 21 N "con_3"
+T1 0 2.54 1.524 1.524 0 0.3048 N V 21 N "VAL**"
+$PAD
+Sh "2" R 1.524 3.048 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 0
+$EndPAD
+$PAD
+Sh "1" R 1.524 3.048 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.54 0
+$EndPAD
+$PAD
+Sh "3" R 1.524 3.048 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.54 0
+$EndPAD
+$EndMODULE con_3
+$MODULE con_4
+Po 0 0 0 15 527528EF 00000000 ~~
+Li con_4
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -2.54 1.524 1.524 0 0.3048 N V 21 N "con_4"
+T1 0 2.54 1.524 1.524 0 0.3048 N V 21 N "VAL**"
+$PAD
+Sh "1" R 1.524 3.048 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.81 0
+$EndPAD
+$PAD
+Sh "2" R 1.524 3.048 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.27 0
+$EndPAD
+$PAD
+Sh "3" R 1.524 3.048 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.27 0
+$EndPAD
+$PAD
+Sh "4" R 1.524 3.048 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.81 0
+$EndPAD
+$EndMODULE con_4
+$MODULE con_5
+Po 0 0 0 15 527527E9 00000000 ~~
+Li con_5
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -2.54 1.524 1.524 0 0.3048 N V 21 N "con_5"
+T1 0 2.54 1.524 1.524 0 0.3048 N V 21 N "VAL**"
+$PAD
+Sh "3" R 1.524 3.048 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 0
+$EndPAD
+$PAD
+Sh "2" R 1.524 3.048 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.54 0
+$EndPAD
+$PAD
+Sh "1" R 1.524 3.048 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -5.08 0
+$EndPAD
+$PAD
+Sh "4" R 1.524 3.048 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.54 0
+$EndPAD
+$PAD
+Sh "5" R 1.524 3.048 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 5.08 0
+$EndPAD
+$EndMODULE con_5
+$MODULE con_6
+Po 0 0 0 15 5275291C 00000000 ~~
+Li con_6
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -2.54 1.524 1.524 0 0.3048 N V 21 N "con_6"
+T1 0 2.54 1.524 1.524 0 0.3048 N V 21 N "VAL**"
+$PAD
+Sh "1" R 1.524 3.048 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -6.35 0
+$EndPAD
+$PAD
+Sh "2" R 1.524 3.048 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.81 0
+$EndPAD
+$PAD
+Sh "3" R 1.524 3.048 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.27 0
+$EndPAD
+$PAD
+Sh "4" R 1.524 3.048 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.27 0
+$EndPAD
+$PAD
+Sh "5" R 1.524 3.048 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.81 0
+$EndPAD
+$PAD
+Sh "6" R 1.524 3.048 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 6.35 0
+$EndPAD
+$EndMODULE con_6
+$MODULE test_pad
+Po 0 0 0 15 527526C7 00000000 ~~
+Li test_pad
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -2.54 1.524 1.524 0 0.3048 N V 21 N "test_pad"
+T1 0 2.54 1.524 1.524 0 0.3048 N V 21 N "VAL**"
+$PAD
+Sh "1" R 1.524 1.524 0 0 450
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 0
+$EndPAD
+$EndMODULE test_pad
+$EndLIBRARY

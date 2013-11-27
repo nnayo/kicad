@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0  Date: 3/3/2007-20:57:18
+#
+$CMP LMC6492
+D Dual Op amp (low power)
+K ampliop
+$ENDCMP
+#
+#End Doc Library
